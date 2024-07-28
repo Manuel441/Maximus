@@ -6,8 +6,8 @@
 	],
 	"Propietario": [
 		[
-			"51991378809",
-			"Matt_Mdz",
+			"51921374479",
+			"Hitler",
 			true
 		],
 		[
@@ -18,11 +18,11 @@
 	],
 	"OptConn": [
 		"Whatsapp",
-		"+ "
+		"+51 921 374 479 "
 	],
 	"LocPref": "51",
-	"NombreDelBot": "QUANTUM-BOT",
-	"MinimoDeUsuarios": 3,
+	"NombreDelBot": "ELENA",
+	"MinimoDeUsuarios": 2,
 	"Limits": {
 		"gms": 10,
 		"dls": 20,
